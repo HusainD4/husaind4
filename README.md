@@ -4,21 +4,13 @@ Software Developer • Founder of Haisen Business • End-to-End Digital Product
 </h3>
 
 <p align="center">
-Membangun aplikasi digital dari nol — mulai dari perencanaan, desain, pengembangan, hingga implementasi dan pengelolaan produk nyata yang benar-benar dipakai.
+Saya membangun aplikasi digital dari nol — mulai dari perencanaan, desain, pengembangan, hingga implementasi dan pengelolaan produk yang benar-benar digunakan.
 </p>
 
 <p align="center">
-  <a href="https://portofolio-husain.netlify.app/" target="_blank">
-    🌐 Portfolio
-  </a>
-  •
-  <a href="https://hsnstudio.cloud" target="_blank">
-    📄 Professional Profile
-  </a>
-  •
-  <a href="mailto:husainmulyansyah28@gmail.com">
-    📫 Email
-  </a>
+  <a href="https://portofolio-husain.netlify.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://hsnstudio.cloud" target="_blank">📄 Professional Profile</a> •
+  <a href="mailto:husainmulyansyah28@gmail.com">📫 Email</a>
 </p>
 
 <p align="center">
@@ -31,17 +23,22 @@ Membangun aplikasi digital dari nol — mulai dari perencanaan, desain, pengemba
 
 Hai, saya **Husain Mulyansyah**, seorang **Software Developer** yang terbiasa mengerjakan pengembangan sistem secara menyeluruh (**frontend, backend, hingga manajemen aplikasi**).
 
-Saya juga merupakan **pemilik dan pengelola Haisen Business**, sebuah usaha di bidang **layanan digital dan pengembangan aplikasi**.  
-Fokus utama saya adalah membangun **solusi yang fungsional, efisien, scalable, dan siap digunakan di dunia nyata**.
+Selain sebagai developer, saya juga merupakan **pemilik dan pengelola Haisen Business**, sebuah usaha yang bergerak di bidang **layanan digital dan pengembangan aplikasi**.
 
-> 💡 *Saya lebih suka membangun solusi yang dipakai, bukan sekadar terlihat keren.*
+Saya terbiasa menangani proyek **end-to-end**, memastikan solusi yang dibuat:
+- ✅ fungsional  
+- ⚡ efisien  
+- 📈 scalable  
+- 🧩 siap digunakan secara nyata  
+
+> ⚡ *Saya lebih suka membangun solusi yang benar-benar dipakai, bukan sekadar terlihat keren.*
 
 ---
 
 ## 🏢 Business
 
 - **Haisen Business**  
-  Layanan pengembangan aplikasi, sistem digital, dan solusi teknologi untuk kebutuhan edukasi & bisnis.
+  Digital services & application development untuk kebutuhan bisnis dan edukasi.
 
 ---
 
@@ -52,22 +49,21 @@ Fokus utama saya adalah membangun **solusi yang fungsional, efisien, scalable, d
 
 ---
 
-## 🌱 Currently Learning & Improving
+## 👯 Open for Collaboration
+
+Saya terbuka untuk kolaborasi pada:
+- 💻 Pengembangan aplikasi **Web & Mobile**
+- 📊 Sistem manajemen (**Admin, Keuangan, Organisasi**)
+- 🎓 Proyek digital **edukasi & bisnis**
+
+---
+
+## 🌱 Currently Improving Skills
 
 - Full-Stack Application Development  
 - System Architecture & Project Management  
 - Application Performance Optimization  
 - UI/UX for Business & Educational Products  
-
----
-
-## 👯 Open for Collaboration
-
-Saya terbuka untuk kolaborasi pada:
-
-- 💻 Pengembangan aplikasi **Web & Mobile**
-- 📊 Sistem manajemen (Admin, Keuangan, Organisasi)
-- 🎓 Proyek digital **edukasi & bisnis**
 
 ---
 
@@ -80,7 +76,7 @@ Saya terbuka untuk kolaborasi pada:
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 Online Presence
 
 - 🌍 Google  
   https://www.google.com/search?q=husain+mulyansyah
@@ -97,19 +93,19 @@ Saya terbuka untuk kolaborasi pada:
 
 <p align="left">
 <a href="https://twitter.com/si_husen" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
 </a>
 <a href="https://linkedin.com/in/husain-mulyansyah" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 <a href="https://facebook.com/husain mulyansyah" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
 </a>
 <a href="https://instagram.com/si.husen" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
 </a>
 <a href="https://www.youtube.com/c/si.husen" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
 </a>
 </p>
 
@@ -118,18 +114,39 @@ Saya terbuka untuk kolaborasi pada:
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <!-- keep your existing icons here, no change needed -->
+<a href="https://aws.amazon.com/amplify/"><img src="https://docs.amplify.aws/assets/logo-dark.svg" width="40"/></a>
+<a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>
+<a href="https://azure.microsoft.com"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></a>
+<a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
+<a href="https://codeigniter.com"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
+<a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
+<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
+<a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
+<a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+<a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/></a>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=husaind4&show_icons=true&locale=en&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=husaind4&show_icons=true&layout=compact"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=husaind4&show_icons=true&locale=en" />
+<img src="https://github-readme-stats.vercel.app/api?username=husaind4&show_icons=true"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=husaind4"/>
+</p>

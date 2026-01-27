@@ -17,6 +17,21 @@ Saya membangun aplikasi digital dari nol — mulai dari perencanaan, desain, pen
   <img src="https://komarev.com/ghpvc/?username=husaind4&label=Profile%20Views&color=0e75b6&style=flat" alt="husaind4" />
 </p>
 
+## 📊 GitHub Statistics
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=husaind4&layout=compact" />
+    </td>
+    <td align="center">
+      <img width="400" src="https://github-readme-stats.vercel.app/api?username=husaind4&show_icons=true" />
+    </td>
+  </tr>
+</table>
+
+
+
 ---
 
 ## 🚀 About Me
@@ -136,14 +151,4 @@ Saya terbuka untuk kolaborasi pada:
 </p>
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=husaind4&show_icons=true&layout=compact"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=husaind4&show_icons=true"/>
-</p>
 

@@ -9,10 +9,11 @@ Software Developer • Founder of Haisen Business • End-to-End Digital Product
 </p>
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=husaind4&label=Profile%20Visitors&color=0e75b6&style=flat" 
-    alt="Profile Visitors Counter" 
+    src="https://komarev.com/ghpvc/?username=husaind4&label=Jumlah%20Pengunjung&color=0e75b6&style=flat" 
+    alt="Jumlah Pengunjung" 
   />
 </p>
+
 <p align="center">
 Saya membangun solusi digital dari nol — mulai dari perencanaan, desain, pengembangan,
 hingga implementasi dan pengelolaan produk yang benar-benar digunakan.

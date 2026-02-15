@@ -1,11 +1,33 @@
 <h1 align="center">Hi 👋, I'm Husain Mulyansyah</h1>
+
 <h3 align="center">
 Software Developer • Founder of Haisen Business • End-to-End Digital Product Builder
 </h3>
 
 <p align="center">
-Saya membangun aplikasi digital dari nol — mulai dari perencanaan, desain, pengembangan, hingga implementasi dan pengelolaan produk yang benar-benar digunakan.
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Digital+Products+from+Zero+to+Production;Full-Stack+Web+%26+Mobile+Developer;System+Architecture+%7C+Business+Technology;Turning+Ideas+Into+Scalable+Solutions" />
 </p>
+
+<p align="center">
+Saya membangun solusi digital dari nol — mulai dari perencanaan, desain, pengembangan,
+hingga implementasi dan pengelolaan produk yang benar-benar digunakan.
+</p>
+
+---
+
+## 🌍 Digital World
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="400" />
+</p>
+
+<p align="center">
+🚀 Technology • 🌐 Cloud • 📱 Applications • 🤖 Automation • 📊 Systems
+</p>
+
+---
+
+## 🔗 Connect & Portfolio
 
 <p align="center">
   <a href="https://portofolio-husain.netlify.app/" target="_blank">🌐 Portfolio</a> •
@@ -14,141 +36,114 @@ Saya membangun aplikasi digital dari nol — mulai dari perencanaan, desain, pen
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=husaind4&label=Profile%20Views&color=0e75b6&style=flat" alt="husaind4" />
+  <img src="https://komarev.com/ghpvc/?username=husaind4&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-## 📊 GitHub Statistics
+---
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=husaind4&layout=compact" />
-    </td>
-    <td align="center">
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=husaind4&show_icons=true" />
-    </td>
-  </tr>
-</table>
+# 📊 GitHub Statistics
 
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=husaind4&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=husaind4&layout=compact&theme=default" />
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-Hai, saya **Husain Mulyansyah**, seorang **Software Developer** yang terbiasa mengerjakan pengembangan sistem secara menyeluruh (**frontend, backend, hingga manajemen aplikasi**).
+Saya adalah **Software Developer** yang terbiasa mengerjakan pengembangan sistem secara menyeluruh:
 
-Selain sebagai developer, saya juga merupakan **pemilik dan pengelola Haisen Business**, sebuah usaha yang bergerak di bidang **layanan digital dan pengembangan aplikasi**.
+- 🎨 Frontend Development  
+- ⚙ Backend Architecture  
+- 🗄 Database Design  
+- 🚀 Deployment & Production  
+- 📈 Product & Business Scaling  
 
-Saya terbiasa menangani proyek **end-to-end**, memastikan solusi yang dibuat:
-- ✅ fungsional  
-- ⚡ efisien  
-- 📈 scalable  
-- 🧩 siap digunakan secara nyata  
+Selain sebagai developer, saya juga pemilik dan pengelola:
 
-> ⚡ *Saya lebih suka membangun solusi yang benar-benar dipakai, bukan sekadar terlihat keren.*
+### 🏢 Haisen Business
+Digital services & application development untuk kebutuhan bisnis dan edukasi.
 
----
-
-## 🏢 Business
-
-- **Haisen Business**  
-  Digital services & application development untuk kebutuhan bisnis dan edukasi.
+> ⚡ Saya lebih suka membangun solusi yang benar-benar dipakai, bukan sekadar terlihat keren.
 
 ---
 
-## 🔭 Current Project
+# 🎯 Current Focus
 
-- 🎯 **SmartWaste Kids**  
-  👉 https://www.youtube.com/@SmartWasteKids
+- 🔥 SmartWaste Kids  
+  https://www.youtube.com/@SmartWasteKids
+
+- 💡 Scalable Web Systems  
+- 🏗 Business-Oriented Application Architecture  
+- 📊 Performance Optimization  
 
 ---
 
-## 👯 Open for Collaboration
+# 🤝 Open For Collaboration
 
 Saya terbuka untuk kolaborasi pada:
-- 💻 Pengembangan aplikasi **Web & Mobile**
-- 📊 Sistem manajemen (**Admin, Keuangan, Organisasi**)
-- 🎓 Proyek digital **edukasi & bisnis**
+
+- 💻 Web & Mobile Application Development  
+- 📊 Sistem Manajemen (Admin, Keuangan, Organisasi)  
+- 🎓 Digital Product untuk Edukasi & Bisnis  
+- 🚀 Startup & SaaS Development  
 
 ---
 
-## 🌱 Currently Improving Skills
+# 🛠 Tech Stack
 
-- Full-Stack Application Development  
-- System Architecture & Project Management  
-- Application Performance Optimization  
-- UI/UX for Business & Educational Products  
+### 💻 Programming & Framework
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/>
+</p>
+
+### 🗄 Database
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+</p>
+
+### ☁ Cloud & DevOps
+<p>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+</p>
 
 ---
 
-## 💬 Ask Me About
-
-- Pengembangan aplikasi end-to-end  
-- Sistem berbasis web & backend architecture  
-- Manajemen proyek digital  
-- Membangun & mengelola produk bisnis digital  
-
----
-
-## 🌐 Online Presence
+# 🌐 Online Presence
 
 - 🌍 Google  
-  https://www.google.com/search?q=husain+mulyansyah
+  https://www.google.com/search?q=husain+mulyansyah  
 
 - 🌐 Portfolio  
-  https://portofolio-husain.netlify.app/
+  https://portofolio-husain.netlify.app/  
 
 - 📄 Professional Profile  
-  https://hsnstudio.cloud
+  https://hsnstudio.cloud  
 
 ---
 
-## 🤝 Connect With Me
+# 📬 Connect With Me
 
-<p align="left">
-<a href="https://twitter.com/si_husen" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-</a>
-<a href="https://linkedin.com/in/husain-mulyansyah" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://facebook.com/husain mulyansyah" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-</a>
-<a href="https://instagram.com/si.husen" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-<a href="https://www.youtube.com/c/si.husen" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
-</a>
+<p>
+<a href="https://twitter.com/si_husen"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35"/></a>
+<a href="https://linkedin.com/in/husain-mulyansyah"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/></a>
+<a href="https://instagram.com/si.husen"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/></a>
+<a href="https://www.youtube.com/c/si.husen"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="35"/></a>
 </p>
 
 ---
 
-## 🛠 Languages & Tools
-
-<p align="left">
-<a href="https://aws.amazon.com/amplify/"><img src="https://docs.amplify.aws/assets/logo-dark.svg" width="40"/></a>
-<a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>
-<a href="https://azure.microsoft.com"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></a>
-<a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
-<a href="https://codeigniter.com"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-<a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
-<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
-<a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
-<a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
+<p align="center">
+🔥 Building Real Products • Scaling Digital Systems • Creating Impact Through Technology
 </p>
-
----
-

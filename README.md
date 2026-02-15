@@ -22,7 +22,7 @@ hingga implementasi dan pengelolaan produk yang benar-benar digunakan.
 
 ---
 
-## 🌍 My Brand
+## 🌍 HAISEN BUSSINES OFFICIAL
 
 <p align="center">
   <strong>My Brand Logo</strong>

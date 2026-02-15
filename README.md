@@ -21,38 +21,16 @@ hingga implementasi dan pengelolaan produk yang benar-benar digunakan.
 
 ---
 
-## 🌍 Digital World
+## 🌍 MY LOGO BRAND
 <p align="center">
-<svg width="250" height="250" viewBox="0 0 200 200">
-
-  <image 
-    href="https://github.com/user-attachments/assets/a2e57ad0-4e00-45cd-b9c5-8012a5463df8"
-    x="25" 
-    y="25" 
-    width="150" 
-    height="150">
-
-    <!-- Flash Effect -->
-    <animate 
-      attributeName="opacity"
-      values="0;1;1;0"
-      dur="2s"
-      repeatCount="indefinite"/>
-
-    <!-- Rotate Effect -->
-    <animateTransform 
-      attributeName="transform"
-      attributeType="XML"
-      type="rotate"
-      from="0 100 100"
-      to="360 100 100"
-      dur="3s"
-      repeatCount="indefinite"/>
-
-  </image>
-
-</svg>
+  <h3>My Brand Logo</h3>
+  <img 
+    src="https://github.com/user-attachments/assets/a2e57ad0-4e00-45cd-b9c5-8012a5463df8" 
+    width="200" 
+    alt="My Brand Logo"
+  />
 </p>
+
 
 
 

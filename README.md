@@ -7,7 +7,9 @@ Software Developer • Founder of Haisen Business • End-to-End Digital Product
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Digital+Products+from+Zero+to+Production;Full-Stack+Web+%26+Mobile+Developer;System+Architecture+%7C+Business+Technology;Turning+Ideas+Into+Scalable+Solutions" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=husaind4&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 <p align="center">
 Saya membangun solusi digital dari nol — mulai dari perencanaan, desain, pengembangan,
 hingga implementasi dan pengelolaan produk yang benar-benar digunakan.
@@ -29,15 +31,14 @@ hingga implementasi dan pengelolaan produk yang benar-benar digunakan.
 
 ## 🔗 Connect & Portfolio
 
+masih bingung mau di isi apa... mungkin nanti deh
 <!-- <p align="center">
   <a href="https://portofolio-husain.netlify.app/" target="_blank">🌐 Portfolio</a> •
   <a href="https://hsnstudio.cloud" target="_blank">📄 Professional Profile</a> •
   <a href="mailto:husainmulyansyah28@gmail.com">📫 Email</a>
 </p> -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=husaind4&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
 
 ---
 

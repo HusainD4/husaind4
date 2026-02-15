@@ -23,51 +23,31 @@ hingga implementasi dan pengelolaan produk yang benar-benar digunakan.
 
 ## 🌍 Digital World
 <p align="center">
-<svg width="300" height="300" viewBox="0 0 300 300">
+<svg width="200" height="200" viewBox="0 0 200 200">
 
-  <style>
-    .logo {
-      transform-origin: 150px 150px;
-      animation: flash 1s ease-in-out,
-                 bounce 1s ease-in-out 1s,
-                 spin 2s linear 2s,
-                 fadeOut 1s ease-in-out 4s;
-      animation-iteration-count: infinite;
-    }
+  <image href="https://github.com/user-attachments/assets/a2e57ad0-4e00-45cd-b9c5-8012a5463df8"
+         x="25" y="25" height="150" width="150">
 
-    @keyframes flash {
-      0% { opacity: 0; }
-      50% { opacity: 1; filter: brightness(2); }
-      100% { opacity: 1; filter: brightness(1); }
-    }
+    <!-- Flash -->
+    <animate attributeName="opacity"
+             values="0;1;1"
+             dur="1s"
+             repeatCount="indefinite"/>
 
-    @keyframes bounce {
-      0%,100% { transform: translateY(0); }
-      50% { transform: translateY(-30px); }
-    }
+    <!-- Rotate -->
+    <animateTransform attributeName="transform"
+                      attributeType="XML"
+                      type="rotate"
+                      from="0 100 100"
+                      to="360 100 100"
+                      dur="3s"
+                      repeatCount="indefinite"/>
 
-    @keyframes spin {
-      0% { transform: rotate(0deg); }
-      50% { transform: rotate(720deg); }
-      100% { transform: rotate(1440deg); }
-    }
+  </image>
 
-    @keyframes fadeOut {
-      0% { opacity: 1; }
-      100% { opacity: 0; }
-    }
-  </style>
-
-  <image 
-    href="https://github.com/user-attachments/assets/a2e57ad0-4e00-45cd-b9c5-8012a5463df8" 
-    x="50" 
-    y="50" 
-    height="200" 
-    width="200"
-    class="logo"
-  />
 </svg>
 </p>
+
 
 
 <p align="center">

@@ -8,7 +8,7 @@ Software Developer • Founder of Haisen Business • End-to-End Digital Product
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Digital+Products+from+Zero+to+Production;Full-Stack+Web+%26+Mobile+Developer;System+Architecture+%7C+Business+Technology;Turning+Ideas+Into+Scalable+Solutions" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=husaind4&label=Kunjungan%20Profile&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=husaind4&label=Jumlah yang%20mampir ke sini&color=0e75b6&style=flat" />
 </p>
 <p align="center">
 Saya membangun solusi digital dari nol — mulai dari perencanaan, desain, pengembangan,

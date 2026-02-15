@@ -22,6 +22,53 @@ hingga implementasi dan pengelolaan produk yang benar-benar digunakan.
 ---
 
 ## 🌍 Digital World
+<p align="center">
+<svg width="300" height="300" viewBox="0 0 300 300">
+
+  <style>
+    .logo {
+      transform-origin: 150px 150px;
+      animation: flash 1s ease-in-out,
+                 bounce 1s ease-in-out 1s,
+                 spin 2s linear 2s,
+                 fadeOut 1s ease-in-out 4s;
+      animation-iteration-count: infinite;
+    }
+
+    @keyframes flash {
+      0% { opacity: 0; }
+      50% { opacity: 1; filter: brightness(2); }
+      100% { opacity: 1; filter: brightness(1); }
+    }
+
+    @keyframes bounce {
+      0%,100% { transform: translateY(0); }
+      50% { transform: translateY(-30px); }
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      50% { transform: rotate(720deg); }
+      100% { transform: rotate(1440deg); }
+    }
+
+    @keyframes fadeOut {
+      0% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+  </style>
+
+  <image 
+    href="https://github.com/user-attachments/assets/a2e57ad0-4e00-45cd-b9c5-8012a5463df8" 
+    x="50" 
+    y="50" 
+    height="200" 
+    width="200"
+    class="logo"
+  />
+</svg>
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="400" />
